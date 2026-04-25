@@ -1,0 +1,218 @@
+{
+  "header": {
+    "home": {
+      "title": "Home"
+    },
+    "aboutUs": {
+      "title": "About Us"
+    },
+    "rooms": {
+      "title": "Rooms"
+    },
+    "contacts":{"title":"Contacts"}
+  },
+  "btn":{
+    "book":{"title":"Book",
+  "details":"More details",
+      "showAll":"Show All"} 
+  },
+   "describes":{
+    "silk":{
+      "title":"The Silk Road Empire Hotel is a one-of-a-kind historical boutique hotel that will transport you to the luxurious atmosphere of Uzbekistan's history. Our boutique hotel will take you on an unforgettable journey into the world of ancient Eastern history."
+    } 
+  },
+  "restaurant":{
+    "title":"Restaurant",
+    "description":"The Silk Road Empire Hotel restaurant offers delicious dining right inside the hotel. Enjoy delicious, filling, and incredibly sophisticated cuisine without leaving the hotel. The restaurant's menu will pleasantly surprise you with its variety!"
+  },
+   "museum":{
+    "title":"Museum",
+    "description":"Another unique feature of the Silk Road Empire Hotel is its on-site museum. It displays unique traditional Uzbek costumes, as well as cultural artifacts from our ancient history. It's a wonderful opportunity to explore our cultural heritage while staying at our historic hotel."
+  },
+   "terrace":{
+    "title":"Terrace",
+    "description":"Fresh air at the Silk Road Empire Hotel! Enjoy delicious coffee or tea in the morning and unwind in the evenings after a busy day on our incredibly cozy terrace. Feel at home with us!"
+  },
+  "conditions":{"title":"living conditions","chekIn":"check-in registration","chekOut":"check-out registration","cancel":{
+    "title":"cancellation of booking",
+    "description":"The guest can cancel the reservation free of charge until 18:00 on the day of arrival. The guest will be charged 50% of the total cost of the stay if cancelled after 18:00 on the day of arrival."
+  },"order":{
+    "title":"living order",
+    "description":"All local couples are required to present a marriage certificate upon check-in."
+  }},
+  "rooms": {
+    "title":"Our Rooms",
+    "category":{
+      "luxe":"Luxe",
+      "deluxe":"Deluxe",
+      "all":"Show all"
+    }
+    
+  },
+  "main": {
+    "home": {
+      "desc": "Welcome to the first historical boutique hotel in Samarkand, where the atmosphere is fully infused with the cultural heritage of the East!"
+    },
+
+    "aboutUs": {
+      "left": {
+        "title": "ABOUT US",
+        "desctop": {
+          "first": "Samarkand is one of the oldest cities in the world, whose walls still preserve the memory of the Great Silk Road.",
+          "second": "Silk Road Empire Hotel is a one-of-a-kind historical boutique hotel that transports you into the luxurious atmosphere of Uzbekistan’s rich past. Our boutique hotel offers you an unforgettable journey into the world of ancient Eastern history."
+        },
+        "mobile": {
+          "desc": "Samarkand is one of the oldest cities in the world, whose walls still preserve the memory of the Great Silk Road. Silk Road Empire Hotel is a one-of-a-kind historical boutique hotel that transports you into the luxurious atmosphere of Uzbekistan’s rich past. Our boutique hotel offers you an unforgettable journey into the world of ancient Eastern history."
+        }
+      },
+      "right": {
+        "desc": "Silk Road Empire Hotel consists of rooms, each with its own unique story. Every corner of our boutique hotel is filled with centuries-old cultural heritage. We strive to provide you with the best service to make your stay truly unforgettable!",
+        "button": "Choose a room"
+      }
+    },
+
+    "advantages": {
+      "title": "OUR ADVANTAGES",
+      "items": [
+  "Non-smoking rooms",
+  "Free Wi-Fi",
+  "Daily housekeeping",
+  "Breakfast",
+  "Restaurant",
+  "Terrace",
+  "Parking",
+  "Mini-bar"
+]
+
+    },
+
+    "rooms": {
+      "titleDesktop": "UNIQUE ROOMS WITH A STORY",
+      "titleMobile": "ROOMS WITH A STORY"
+    },
+
+    "trip": {
+      "title": "VIRTUAL TOUR"
+    },
+
+    "map": {
+      "titleDesktop": "OUR HOTEL LOCATIONS ON THE MAP",
+      "titleMobile": "WHERE TO FIND US"
+    },
+    "roomsSwiper": {
+  "type": "Suite",
+  "button": "Choose a room",
+   "names": [
+  "Sultan Muhammad",
+  "Turkan Khatun",
+  "Jalal ad-Din Mangburni",
+  "Uljay Turkan",
+  "Ismail Samani",
+  "Alexander the Great",
+  "Roxana",
+  "Spitamenes",
+  "Tomyris",
+  "Kanishka",
+  "Zoroaster",
+  "Anahita",
+  "Varkhuman",
+  "Suyud Mir",
+  "Abu al-Ghazi",
+  "Khudayar Khan",
+  "Amir Timur",
+  "Bibi Khanum",
+  "Ulugh Beg",
+  "Shah Rukh Mirza",
+  "Pharasman",
+  "Meniah",
+  "Miran Shah",
+  "Uljay Turkan",
+  "Gawhar Shad",
+  "Zahiruddin",
+  "Muhammad Sultan",
+  "Umar Shaykh Mirza"
+]
+}
+},
+"adults":"Adults",
+"convenience":"Convenience in the room",
+"contacts":{
+  "title":"Ready to answer all questions",
+  "formTitle":"Fill out the feedback form so that we can contact you.",
+  "phone":"Telephone",
+  "appeal":"Your message",
+  "btn":"Send",
+  "call":"CALL",
+   "media":"Our social networks",
+  "location":"how to reach us"
+}
+,
+  "booking": {
+    "title": "BOOKING FORM",
+    "adults": "ADULTS",
+    "children": "CHILDREN",
+    "childrenAge": "(up to 13 years)",
+    "next": "Next step"
+  }
+  , "calendar": {
+    "checkIn": "Check in",
+    "checkOut": "Check out",
+    "weekdays": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+    "months": [
+      "January", "February", "March", "April", "May", "June",
+      "July", "August", "September", "October", "November", "December"
+    ]
+  },"choose": {
+    "title": "CHOOSE A ROOM",
+    "details": "BOOKING DETAILS",
+    "checkIn": "Check in:",
+    "checkOut": "Check out:",
+    "nights": "Nights:",
+    "adults": "Adults:",
+    "children": "Children:"
+  },
+  "roomCard": {
+    "area": "Area",
+    "capacity": "Capacity",
+    "adults": "adults",
+    "from": "from",
+    "nightsGuests": "{nights} nights / {guests} guests",
+    "info": "Room info",
+    "choose": "Choose"
+  },
+  "guest": {
+    "title": "PERSONAL DETAILS",
+    "contact": "HOW CAN WE CONTACT YOU",
+    "phone": "Phone",
+    "phoneHint": "If necessary, we will contact you to уточнить booking details",
+    "email": "Email",
+    "emailHint": "A booking confirmation with a cancellation option will be sent to your email",
+    "guestsTitle": "GUEST DETAILS",
+    "surname": "Surname",
+    "name": "Name",
+    "patronymic": "Middle name",
+    "country": "Citizenship",
+    "timeTitle": "CHECK-IN & CHECK-OUT TIME",
+    "timeText": "Standard check-in is 14:00, check-out is 12:00.",
+    "paymentTitle": "PAY AT CHECK-IN",
+    "paymentText": "No prepayment is required. You will receive a confirmation email and present it at check-in.",
+    "comment": "Additional comments",
+    "submit": "Book now",
+    "details": "BOOKING DETAILS",
+    "checkIn": "Check in:",
+    "checkOut": "Check out:",
+    "nights": "Nights:",
+    "adults": "Adults:",
+    "children": "Children:",
+    "total": "Total:"
+  },
+   "modal": {
+  "thanks": "Thank you for your request!",
+  "desc": "We will call you back within 30 minutes, but in the meantime, you can check out our latest posts on Instagram: @silkroadempirehotel"
+}
+
+
+
+
+
+}
